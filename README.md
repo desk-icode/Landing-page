@@ -200,26 +200,4 @@ Open a Pull Request and wait for review.
 
 ---
 
-## 🎯 Learning Objectives
 
-This repository is designed to help contributors gain practical experience in:
-
-* Git and GitHub workflow
-* Branching strategies
-* Pull Requests
-* Code Reviews
-* Merge Conflict Resolution
-* Team Collaboration
-* Frontend Development Best Practices
-
----
-
-## 📄 License
-
-This project is open-source and available for learning and educational purposes.
-
----
-
-## 👨‍💻 Author
-
-Developed for internship and collaborative learning purposes to simulate a real-world frontend team environment.

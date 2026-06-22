@@ -1,0 +1,29 @@
+.features{
+    background:white;
+}
+
+.feature-grid{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:30px;
+    margin-top:50px;
+}
+
+.feature-card{
+    background:#f8fafc;
+    padding:40px;
+    text-align:center;
+    border-radius:20px;
+    transition:.4s;
+}
+
+.feature-card i{
+    font-size:50px;
+    color:#4f46e5;
+    margin-bottom:20px;
+}
+
+.feature-card:hover{
+    transform:translateY(-15px);
+    box-shadow:0 20px 40px rgba(0,0,0,.1);
+}

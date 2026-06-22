@@ -1,0 +1,55 @@
+.hero{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    align-items:center;
+    gap:60px;
+}
+
+.hero h1{
+    font-size:60px;
+}
+
+.hero p{
+    font-size:20px;
+    line-height:35px;
+}
+
+.hero-buttons{
+    margin:40px 0;
+}
+
+.secondary{
+    background:#06b6d4;
+    margin-left:20px;
+}
+
+.stats{
+    display:flex;
+    gap:25px;
+}
+
+.card{
+    background:white;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 5px 20px rgba(0,0,0,.1);
+}
+
+.dashboard-preview{
+    display:grid;
+    gap:25px;
+}
+
+.dashboard-card{
+    background:white;
+    padding:35px;
+    border-radius:20px;
+    box-shadow:0 10px 30px rgba(0,0,0,.1);
+}
+
+.dashboard-card span{
+    display:block;
+    font-size:35px;
+    color:#4f46e5;
+    margin-top:15px;
+}

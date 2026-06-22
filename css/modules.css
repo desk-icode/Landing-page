@@ -1,0 +1,19 @@
+.module-grid{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:30px;
+}
+
+.module{
+    background:#4f46e5;
+    color:white;
+    padding:50px;
+    border-radius:20px;
+    text-align:center;
+    font-size:25px;
+    transition:.3s;
+}
+
+.module:hover{
+    transform:scale(1.05);
+}

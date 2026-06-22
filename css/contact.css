@@ -1,0 +1,18 @@
+form{
+    max-width:700px;
+    margin:auto;
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+}
+
+input,
+textarea{
+    padding:18px;
+    border:1px solid #ddd;
+    border-radius:10px;
+}
+
+textarea{
+    height:180px;
+}

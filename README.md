@@ -199,5 +199,8 @@ Open a Pull Request and wait for review.
 | feature/dark-mode    | Dark Mode Implementation |
 
 ---
+## 📸 Screenshots
+
+Add your application screenshots inside the `screenshots/` folder:
 
 
